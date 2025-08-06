@@ -1,0 +1,51 @@
+port_id,port_name,country_or_territory,region,port_type,latitude,longitude,avg_annual_visitors,avg_port_fee_usd,local_attractions_score,avg_customer_satisfaction,excursion_variety_index,avg_disembark_rate,avg_shore_spend_per_passenger,seasonality_score
+001,Cozumel,Mexico,Western,Private,23.7406,-66.7748,187848,13.75,6,8.23,2,0.82,175.22,0.99
+002,Costa Maya,Mexico,Western,Eco/Nature,13.4943,-65.7182,667075,13.77,3,9.74,10,0.52,100.07,0.78
+003,Progreso,Mexico,Western,Major,18.9991,-83.1489,177948,12.11,9,8.78,3,0.69,156.4,0.44
+004,Belize City,Belize,Western,Private,20.3673,-76.0384,452690,4.53,4,12.5,1,0.81,157.05,0.18
+005,Roatán,Honduras,Western,Private,10.8129,-82.1033,549046,17.2,1,6.39,8,0.75,43.05,0.8
+006,Harvest Caye,Belize,Western,Eco/Nature,20.632,-63.4224,501269,8.45,4,8.46,3,0.93,182.95,0.6
+007,Mahogany Bay,Honduras,Western,Major,12.9842,-69.4175,71959,6.17,1,9.96,10,0.83,113.42,0.48
+008,Nassau,Bahamas,Bahamas,Major,11.1384,-76.7275,278576,3.69,5,6.56,7,1.2,169.63,0.92
+009,Freeport,Bahamas,Bahamas,Private,26.6055,-83.411,1065602,13.05,4,8.07,10,0.54,81.01,0.2
+010,Bimini,Bahamas,Bahamas,Boutique,26.8986,-77.2254,964091,14.52,8,9.51,5,0.82,181.72,0.54
+011,Half Moon Cay,Bahamas,Bahamas,Private,24.147,-76.8704,215838,3.28,8,8.96,10,0.51,-45.0,0.11
+012,Princess Cays,Bahamas,Bahamas,Private,15.3307,-66.7598,1434250,11.71,7,8.79,5,0.79,26.9,0.52
+013,Great Stirrup Cay,Bahamas,Bahamas,Private,11.7093,-69.0611,111087,6.85,3,8.81,7,0.97,183.44,0.15
+014,Ocean Cay MSC,Bahamas,Bahamas,Private,21.9741,-62.8197,1063343,13.97,1,7.44,9,0.79,40.98,0.21
+015,San Juan,Puerto Rico,Eastern,Eco/Nature,17.7027,-73.1946,168451,5.96,1,7.17,5,0.69,80.88,0.21
+016,St. Thomas,US Virgin Islands,Eastern,Major,12.1357,-82.0101,489792,14.75,15,9.24,1,0.82,191.26,0.68
+017,St. Croix,US Virgin Islands,Eastern,Eco/Nature,18.6656,-67.1689,89353,9.57,6,9.24,10,0.73,191.36,0.77
+018,Tortola,British Virgin Islands,Eastern,Eco/Nature,10.6018,-65.9804,243075,18.92,7,9.47,10,0.77,125.35,0.63
+019,Virgin Gorda,British Virgin Islands,Eastern,Eco/Nature,25.9131,-70.9681,1312859,5.34,6,9.65,1,0.97,135.57,0.97
+020,St. Maarten,Sint Maarten,Eastern,Private,14.5286,-65.7258,1413453,8.8,6,8.05,2,0.69,103.48,0.44
+021,St. Kitts,St. Kitts and Nevis,Eastern,Boutique,21.5941,-72.6551,115318,4.93,6,8.01,6,0.98,76.31,0.36
+022,Antigua,Antigua and Barbuda,Eastern,Major,15.4549,-71.9317,815313,-3.5,3,9.19,9,0.95,82.52,0.88
+023,Dominica,Dominica,Eastern,Boutique,19.1012,-74.3115,466880,17.91,6,8.6,8,0.6,142.69,0.3
+024,St. Lucia,St. Lucia,Southern,Eco/Nature,19.5674,-84.3645,641460,7.39,8,8.81,5,0.53,156.67,0.97
+025,Barbados,Barbados,Southern,Eco/Nature,13.235,-82.3027,790976,14.22,2,9.18,1,0.55,163.53,0.11
+026,Grenada,Grenada,Southern,Boutique,26.9677,-84.2143,831239,16.89,5,9.56,7,0.51,163.18,0.97
+027,Trinidad,Trinidad and Tobago,Southern,Boutique,23.5648,-69.0897,1191840,12.44,1,7.35,5,0.55,40.96,0.14
+028,Bonaire,Bonaire,Southern,Boutique,26.4412,-77.1411,820746,12.0,1,7.5,6,0.84,111.52,0.9
+029,Curaçao,Curaçao,Southern,Eco/Nature,25.6595,-72.2857,863168,7.11,5,6.38,7,0.54,35.07,0.57
+030,Aruba,Aruba,Southern,Eco/Nature,20.4632,-62.3108,275281,4.58,3,8.31,3,0.66,121.17,0.99
+031,La Romana,Dominican Republic,Eastern,Major,26.1328,-78.7677,1070545,18.25,4,6.14,10,0.92,102.27,0.17
+032,Amber Cove,Dominican Republic,Eastern,Major,11.5486,-74.7404,948613,18.31,3,7.86,3,0.51,180.35,0.6
+033,Puerto Plata,Dominican Republic,Eastern,Eco/Nature,13.4297,-66.1112,1492646,13.76,1,8.17,5,0.91,86.41,0.97
+034,Santo Domingo,Jamaica,Western,Boutique,10.7915,-79.28,1450804,8.76,1,7.15,6,0.64,45.49,0.57
+035,Montego Bay,Jamaica,Western,Boutique,15.6933,-83.0755,319536,8.94,5,8.36,9,0.56,50.02,0.67
+036,Falmouth,Jamaica,Western,Major,16.8019,-77.7562,367824,15.34,6,6.12,5,0.85,158.26,0.73
+037,Ocho Rios,Jamaica,Western,Eco/Nature,14.7486,-80.9695,1356002,18.25,3,6.15,1,0.81,133.19,0.51
+038,Port Antonio,Jamaica,Western,Major,24.5029,-61.7576,227789,18.08,9,9.29,4,0.94,42.7,0.66
+039,Labadee,Haiti,Eastern,Major,16.2432,-64.797,792452,16.26,5,7.44,5,0.87,39.72,0.63
+040,Cabo Rojo,Puerto Rico,Western,Private,14.9164,-69.1649,887291,13.91,8,6.51,10,0.9,147.67,0.91
+041,Santa Marta,Colombia,Southern,Private,19.4972,-63.2135,175657,4.43,1,8.09,10,0.64,37.73,0.14
+042,Cartagena,Colombia,Southern,Private,12.4662,-64.9082,1333743,5.75,5,9.08,5,0.59,168.83,0.35
+043,Colon,Panama,Southern,Boutique,24.0384,-80.3357,731669,18.28,3,6.86,7,0.88,148.59,0.96
+044,Banana Coast,Honduras,Western,Eco/Nature,11.3046,-62.686,1169043,13.31,1,8.49,4,0.9,39.24,0.9
+045,Isla Margarita,Venezuela,Southern,Eco/Nature,27.2705,-71.5164,1282310,3.16,4,6.34,1,1.0,39.85,0.51
+046,Isla de Providencia,Colombia,Western,Eco/Nature,23.5143,-64.814,159751,4.73,5,6.21,5,0.71,197.66,0.66
+047,Ponce,Puerto Rico,Eastern,Eco/Nature,13.4775,-62.5977,1479626,14.28,7,8.13,7,0.69,90.5,0.35
+048,Basseterre,St. Kitts and Nevis,Eastern,Private,10.0966,-77.0499,861774,3.09,1,8.16,10,0.89,89.86,0.27
+049,Mayaguez,Puerto Rico,Eastern,Boutique,24.2706,-82.2487,511079,5.73,3,8.55,10,0.67,167.24,0.52
+050,CocoCay,Bahamas,Bahamas,Boutique,22.37,-79.3016,418452,12.33,2,8.9,6,0.97,190.77,0.42
