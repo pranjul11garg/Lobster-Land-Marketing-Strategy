@@ -1,2 +1,2 @@
 # Lobster-Land-Marketing-Strategy
-Identify how Lobster Land Voyage can enter into Luxury cruise market using analytics
+A data-driven market entry and product strategy for Lobster Land’s expansion into the luxury cruise segment. Includes port segmentation, customer insights, churn modeling, risk forecasting, and Tableau dashboards for actionable recommendations.
